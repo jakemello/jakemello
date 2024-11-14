@@ -49,6 +49,12 @@
   </a>
 </div>
 
+<div align="center">
+<img src="./assets/snake.svg" alt="snake game" align="center" style="width: 100%" /> 
+</div>
+
+<!-- ![Snake animation](https://github.com/Eduardo377/Eduardo377/blob/output/github-user-contribution.svg) -->
+
 ###
 
 <br clear="both">
