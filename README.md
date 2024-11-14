@@ -2,7 +2,6 @@
 
 ###
 
-![snake gif](https://github.com/jakemello/jakemello/blob/output/github-contribution-grid-snake.svg)
 
 <br clear="both">
 
