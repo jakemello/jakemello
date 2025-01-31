@@ -1,4 +1,14 @@
-<h2 align="left">Oii.. Eu sou a Jakeline, Mais pode me chamar de Jake 👀✨<br><br><br>- 🔭 Atualmente em busca de uma oportunidade de trabalho<br>- 📚💻🌱 Estudando HTML, Sass, JavaScript<br>- 😄✨ Pronouns: Ela/Dela</h2>
+<h2 align="left">✨Oii.. Eu sou a Jakeline, Mais pode me chamar de Jake 👀✨<br><br><br>
+<div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=5D1DF5&height=120&section=header"/>
+<div/>
+
+  ### 
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F51885&size=35&center=true&vCenter=true&width=1000&lines=🌱+💡+"Pessoas+não+nascem+pessoas,;+se+tornam+pessoas."+💡+🌱)](https://git.io/typing-svg)
+  ###
+  <br>-
+  🔭 Atualmente em busca de uma oportunidade de trabalho<br>- 
+  📚💻🌱 Estudando HTML, Sass, JavaScript
 
 ###
 
@@ -14,7 +24,7 @@
 
 <br clear="both">
 
-<img align="right" height="181" src="https://cdn.openart.ai/uploads/image_cd1hxOHO_1730742873453_raw.jpg"  />
+<img align="right" height="200" src="https://i.imgur.com/5vuUEUJ.png" alt="imagem de uma garota codando" />
 
 ###
 
@@ -50,6 +60,7 @@
   </a>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=5D1DF5&height=120&section=footer"/>
 
 ###
 
