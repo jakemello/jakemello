@@ -8,7 +8,7 @@
   ###
   <br>-
   🔭 Atualmente em busca de uma oportunidade de trabalho<br>- 
-  📚💻🌱 Estudando HTML, Sass, JavaScript
+  📚💻🌱 Estudando HTML, Sass, JavaScript, React e Python.
 
 ###
 
