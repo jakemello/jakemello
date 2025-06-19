@@ -83,10 +83,16 @@
  Connect with Me
    </h3>
 <p align="center">
-<a href="www.linkedin.com/in/jakeline-da-silva-melo-07b533262" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://www.instagram.com/_jakedev_/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-<a href="mailto:ifjakelines2jocelinoreturnlove@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
-<a href="_jakezera_" target="_blank"><img alt="" src="https://img.shields.io/badge/Discord-000?logo=vercel&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="www.linkedin.com/in/jakemelodev" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/_jakedev_/" target="_blank">
+   <img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" />
+</a>
+<a href="mailto:ifjakelines2jocelinoreturnlove@gmail.com" target="_blank">
+   <img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" />
+</a>
+<a href="_jakezera_" target="_blank">
+   <img alt="" src="https://img.shields.io/badge/Discord-000?logo=vercel&logoColor=blue&style=for-the-badge" style="vertical-align:center" />
+</a>
 </p>
 
 <p align="center">
