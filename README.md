@@ -1,19 +1,15 @@
-<h2 align="left">✨Oii.. Eu sou a Jakeline, Mais pode me chamar de Jake 👀✨<br><br><br>
-<div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=5D1DF5&height=120&section=header"/>
-<div/>
+<h2 align="center">✨Oii.. Eu sou a Jakeline, Mais pode me chamar de Jake 👀✨<br><br><br>
 
-  ### 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F51885&size=35&center=true&vCenter=true&width=1000&lines=🌱+💡+"Pessoas+não+nascem+pessoas,;+se+tornam+pessoas."+💡+🌱)](https://git.io/typing-svg)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;" >
+   
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7826F5&size=35&center=true&vCenter=true&width=1000&lines=🌱+💡+"Pessoas+não+nascem+pessoas,;+se+tornam+pessoas."+💡+🌱)](https://git.io/typing-svg)
+  
   ###
   <br>-
   🔭 Atualmente em busca de uma oportunidade de trabalho<br>- 
   📚💻🌱 Estudando HTML, Sass, JavaScript, React e Python.
 
-###
-
-
-<br clear="both">
+  ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jakemello&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -22,52 +18,89 @@
 
 ###
 
-<br clear="both">
+<br/>
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
 
-<img align="right" height="200" src="https://i.imgur.com/5vuUEUJ.png" alt="imagem de uma garota codando" />
+<h3 align="center"> 
+ TECH STACK<br>
+</h3>
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+      <tr>
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="sass" />
+      <br>Sass
+    </td>  
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+    </td>
+</table>
 
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+  
+ <br/> 
+ 
 ###
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sass/CC6699" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
-</div>
 
-###
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=ffcbdb&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+<h3 align="center">
+ Connect with Me
+   </h3>
+<p align="center">
+<a href="www.linkedin.com/in/jakeline-da-silva-melo-07b533262" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/_jakedev_/" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="mailto:ifjakelines2jocelinoreturnlove@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-000?style=for-the-badge&logo=gmail&logoColor=BB001B" style="vertical-align:center" /></a>
+<a href="_jakezera_" target="_blank"><img alt="" src="https://img.shields.io/badge/Discord-000?logo=vercel&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
+</p>
 
-<div align="left">
-  <a href="https://www.instagram.com/_jakedev_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="_jakezera_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="www.linkedin.com/in/jakeline-da-silva-melo-07b533262" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=ffcbdb&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=5D1DF5&height=120&section=footer"/>
-
-###
-
-<br clear="both">
+ <p align="center">
+   <img align="center" height="200" src="https://i.imgur.com/5vuUEUJ.png" alt="imagem de uma garota codando" />
+<img src="https://github.com/KAYSILVHA/KAYSILVHA/blob/main/assets/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" width="100%"> 
+<br/>
+<p align="center">
 
 
 
-###
+
 
 
