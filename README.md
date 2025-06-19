@@ -109,7 +109,7 @@
 <p align="center">
 <div align="center">
     
-###### @2025 [jakemello](github.com/jakemello ), Inc. All rights reserved
+###### @2025 [jakemello](https://github.com/jakemello), Inc. All rights reserved
 
 </div>
 
